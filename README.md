@@ -6,3 +6,4 @@ There are three parts:
 1. Exploratory analysis of consumer complaints data.
 2. Multi-classifier for product issues using different machine learning methods.
 3. A simple web app of text summary for Ally tech blog.
+4. Explore small GPTs for easier visualization and an intuitive understanding of the dynamic system.
